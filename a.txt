@@ -1,3 +1,5 @@
 modi
 new row
 another new row
+from master
+from my_branch
