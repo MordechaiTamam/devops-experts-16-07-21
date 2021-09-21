@@ -17,7 +17,7 @@ pipeline {
                 sh 'ls'
             }
         }
-        stage('list files') {
+        stage('python') {
             steps {
                 sh 'python3.9 mypy.py'
             }
